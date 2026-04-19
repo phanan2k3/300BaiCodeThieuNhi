@@ -4,4 +4,7 @@
 # But not these files/folders
 !.gitignore
 !300BaiCodeThieuNhi/
-dataStructure/
+# Cho phép tất cả các tệp trong thư mục 300BaiCodeThieuNhi
+!300BaiCodeThieuNhi/**
+!dataStructure/
+!dataStructure/**
